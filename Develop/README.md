@@ -1,9 +1,9 @@
 
-# ReadMeDemo
+# proj
 
 ## Description
 
-Make a basic readMe
+des
 
 ## Table of Contents 
 
@@ -16,25 +16,25 @@ Make a basic readMe
 
 ## Installation
 
-run node index.js
+ins
 
 ## Usage
 
-Use to make a readme
+inf
 
 ## License
 
-none
+lice
 
 ## Contribute
 
-no one contributes
+guid
 
 ## Tests
 
-Run command line and check if file is created
+instTest
 
 ## Questions
 
-Github: hsbunn
-Email: harrisbunn@gmail.com    
+Github: github
+Email: emialll    
